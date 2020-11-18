@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=GTK-Dark-Materials
 MetacityTheme=GTK-Dark-Materials
-IconTheme=Tela-red
+IconTheme=Tela-circle-dark-red
 CursorTheme=Adwaita
 CursorSize=24
