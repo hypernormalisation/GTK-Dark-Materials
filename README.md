@@ -1,3 +1,5 @@
+![](static/dt-cherry.png)
+
 # Pomeron-GTK
 A dark, red accented theme for GTK.
 
